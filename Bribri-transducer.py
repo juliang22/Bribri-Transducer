@@ -16,6 +16,8 @@
 # Panama and Colombia. In this small example, you will see 
 # a transductor that reads BriBri words and decomposes them 
 # morphologically and denotes the meaning of each morpheme.
+# This FSS is coded for all conjugations of the Bribri word
+# alö́k (to cook).
 # 
 # For example:
 #     aleH   -> al-eH & cook-IPFV
