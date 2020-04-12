@@ -15,6 +15,12 @@ a transductor that reads BriBri words and decomposes them
 morphologically and denotes the meaning of each morpheme.
 
 For example:
-     aleH   -> al-eH & cook-IPFV
-     ali'   -> al-i' & cook-THEME.PFV.IMPROSP
-     alìne -> al-iHn-ex & cook-THEME.MID-PFV.IMPROSP
+* aleH   -> al-eH & cook-IPFV
+* ali'   -> al-i' & cook-THEME.PFV.IMPROSP
+* alìne -> al-iHn-ex & cook-THEME.MID-PFV.IMPROSP
+
+Morpheme Tree:
+![](morphemeSplit.jpg)
+
+Morpheme Meaning Tree:
+![](morphemeMeaning.jpg)
