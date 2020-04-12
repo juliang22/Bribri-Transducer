@@ -27,3 +27,6 @@ Morpheme Tree:
 
 Morpheme Meaning Tree:
 ![](morphemeMeaning.jpg)
+
+Sample Output:
+![](sampleOutputg.jpg)
