@@ -14,6 +14,8 @@ Panama and Colombia. In this small example, you will see
 a transductor that reads BriBri words and decomposes them 
 morphologically and denotes the meaning of each morpheme.
 
+Run using virtual machine: ssh -i ling28-2020.pem ec2-user@13.52.231.102
+
 This FSS is coded for all conjugations of the Bribri word
 alö́k (to cook).
 
