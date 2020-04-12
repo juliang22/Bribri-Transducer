@@ -29,4 +29,4 @@ Morpheme Meaning Tree:
 ![](morphemeMeaning.jpg)
 
 Sample Output:
-![](sampleOutputg.jpg)
+![](sampleOutput.jpg)
